@@ -1,6 +1,7 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:312e81,100:7c3aed&text=Mandar%20Sugandhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Tech%20Explorer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:312e81,100:7c3aed&text=Mandar%20Sugandhi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=60&descSize=16"/>
 
 </div>
 
@@ -9,14 +10,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=AI+Enthusiast+%7C+Full+Stack+Developer;Building+Futuristic+Digital+Experiences;Exploring+AI+Systems+%26+Modern+Web+Architecture;Turning+Curiosity+Into+Code+And+Code+Into+Intelligent+Systems"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U5Y2Q0YzQ4MWMwMGU3NTJjMDVjMGRjN2M2ZjEwNWM4ZGYzNjQ0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="700"/>
 
 </div>
 
@@ -70,28 +63,6 @@ Current Status: Exploring futuristic technologies and modern development ecosyst
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mandarx18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mandarx18&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandarx18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
 # 🏅 GitHub Trophies
 
 <div align="center">
@@ -109,18 +80,6 @@ Current Status: Exploring futuristic technologies and modern development ecosyst
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandarx18&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
-
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap"/>
-
-</div>
-
-> Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
 
 ---
 
@@ -164,3 +123,4 @@ while continuously exploring AI and next-generation technologies.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:312e81,100:7c3aed"/>
 
 </div>
+````
